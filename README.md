@@ -1,10 +1,10 @@
-# 🌼 Iris Flower Classification - Machine Learning Web App
+# Iris Flower Classification - Machine Learning Web App
 
 This project is a complete end-to-end machine learning application built with **Streamlit** for classifying Iris flowers into one of three species — **Setosa**, **Versicolor**, or **Virginica** — based on user input. It includes model building, saving, and deployment as a web app.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Iris dataset** is a classic dataset in the field of machine learning. It contains 150 records of iris flowers, each with 4 features:
 - Sepal length (cm)
@@ -24,17 +24,17 @@ This project aims to:
 
 ---
 
-## 🎯 Goals of This Project
+##  Goals of This Project
 
-✅ Train and evaluate a classification model on the Iris dataset  
-✅ Save the trained model using `joblib`  
-✅ Build a clean and interactive frontend using Streamlit  
-✅ Deploy the app on **Streamlit Community Cloud**  
-✅ Document the project for ease of understanding and reuse  
+     Train and evaluate a classification model on the Iris dataset  
+     Save the trained model using `joblib`  
+     Build a clean and interactive frontend using Streamlit  
+     Deploy the app on **Streamlit Community Cloud**  
+     Document the project for ease of understanding and reuse  
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Tool           | Purpose                            |
 |----------------|------------------------------------|
@@ -46,7 +46,7 @@ This project aims to:
 
 ---
 
-## ⚙️ How the Project Works
+## How the Project Works
 
 ### 1. **Model Training**
 - The model is built using the Random Forest Classifier from scikit-learn.
